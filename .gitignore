@@ -1,7 +1,7 @@
 *~
 *.pdf
-*.txt
 *.py~
 *.txt~
 .gitignore~
 __pycache__/
+venv/
